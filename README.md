@@ -8,7 +8,7 @@ AnimeGroveHub is a unique music streaming platform dedicated exclusively to anim
 # Deployment
 
 
-The project is deployed on https://pankajdwivedi077.github.io/Snake-game/
+The project is deployed on https://pankajdwivedi077.github.io/AnimeGrooveHub/
 
 ## Authors
 
