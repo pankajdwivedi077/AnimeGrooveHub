@@ -328,7 +328,7 @@ padding: 10px;
     align-items: center;
 }
 
-@media (max-width:1400px) {
+@media (max-width:1000px) {
   .left{
     background-color: black;
     position: absolute;
@@ -363,6 +363,10 @@ padding: 10px;
   .cardContainer{
     justify-content: center;
     align-items: center;
+
+       max-height: unset;
+        overflow-y: unset;
+        margin-bottom: 35vh;
   }
 
   /* .abovebar {
@@ -408,7 +412,7 @@ padding: 10px;
 }
 
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
     .card{
         width: 70vw;
     }
